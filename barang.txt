@@ -1,0 +1,5 @@
+Laptop ASUS;8500000.0;10
+Mouse Wireless;150000.0;25
+Keyboard Mekanik;450000.0;15
+Monitor LED;1750000.0;8
+Printer Inkjet;1200000.0;5
